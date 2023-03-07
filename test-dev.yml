@@ -1,6 +1,0 @@
-token:
-  expiration-time: 86400000 # 하루짜리 토큰 생성
-  secret: secret-key
-
-gateway:
-  ip: ip정보 실제로 사용하진않음(아무거나 추가해봐도 됩니다.)
