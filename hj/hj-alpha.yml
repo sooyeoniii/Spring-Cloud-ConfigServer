@@ -1,2 +1,4 @@
-그룹정보,가입자번호(해당열은 삭제하지마세요!)
-test,M23423523
+cloud:
+  config:
+    profile: alpha
+    region: hj
