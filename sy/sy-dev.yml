@@ -1,3 +1,4 @@
-message:
-  region: sy
-  content: sy-dev
+cloud:
+  config:
+    profile: dev
+    region: sy
